@@ -86,4 +86,5 @@ Conclusion
 
 This project demonstrates important Java concepts such as multithreading, socket-based communication, client-server architecture, and layered MVC design. It provides a strong foundation for understanding real-time communication systems and concurrent programming in Java.
 
-Sample Output>>>>>>
+Sample Output>>>>>><img width="1219" height="524" alt="Image" src="https://github.com/user-attachments/assets/f60fa0fa-912c-4c94-a136-77af75137184" />
+<img width="1244" height="393" alt="Image" src="https://github.com/user-attachments/assets/46c71620-8e17-43e7-8f56-8461b64796b6" />
